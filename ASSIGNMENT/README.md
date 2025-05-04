@@ -67,7 +67,7 @@ Edit the distance matrix in `tsp.py` to solve different TSP instances.
 Implementation of Minimax algorithm for optimal Tic-Tac-Toe play.
 
 ## How to Run
-```bash
+```bash`
 python runner.py
 
 ----------------------------------------------------------------------------
